@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Loverboxd</string>
+    <string name="popular_title">Películas populares</string>
+    <string name="popular_subtitle">Elegí una película para conocer sus detalles</string>
+    <string name="detail_title">Detalle de película</string>
+    <string name="back">Volver</string>
+    <string name="rating_format">Calificación: %1$.1f/10</string>
+    <string name="synopsis_label">Sinopsis</string>
+    <string name="genres_label">Géneros</string>
+    <string name="no_synopsis">No hay una sinopsis disponible.</string>
+    <string name="no_genres">No se informaron géneros.</string>
+    <string name="no_image">Sin imagen</string>
+    <string name="poster_description">Portada de %1$s</string>
+    <string name="loading">Cargando películas…</string>
+    <string name="loading_details">Cargando detalles…</string>
+    <string name="error_generic">No se pudieron cargar los datos. Intentá nuevamente.</string>
+    <string name="error_connection">No se pudo conectar. Revisá tu conexión a Internet.</string>
+    <string name="error_token_missing">Falta configurar el token de TMDB en local.properties.</string>
+    <string name="error_token_invalid">El token de TMDB no es válido. Revisalo en local.properties.</string>
+    <string name="retry">Reintentar</string>
+    <string name="no_movies">No se encontraron películas para mostrar.</string>
+    <string name="tmdb_credit">Información de películas provista por TMDB.</string>
+</resources>
